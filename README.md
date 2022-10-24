@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Norbarut
+- 👋 Hi, I’m Rain
 - 👀 I’m interested in art and hacks
 - 🌱 I’m currently learning javascript
 - 💞️ I’m looking to collaborate on javascript for online game hacks
